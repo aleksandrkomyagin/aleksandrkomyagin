@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alexander Komyagin 👋
+
+I have recently started my way in programming. I got pretty good knowledge in Django and DRF. Now I'm trying to gain more in-depth knowledge about this framework while learning new technologies at the same time.
 
 <!--
 **aleksandrkomyagin/aleksandrkomyagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
