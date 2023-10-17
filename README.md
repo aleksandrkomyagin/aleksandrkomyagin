@@ -1,8 +1,8 @@
-### Hi, I'm Alexander Komyagin 👋
+### Привет, я Александр Комягин 👋
 
-I have recently started my way in programming. I got pretty good knowledge in Django and DRF. Now I'm trying to gain more in-depth knowledge about this framework while learning new technologies at the same time.
+Я недавно начал свой путь в программировании. Я получил довольно хорошие знания в Django и DRF. Сейчас я пытаюсь получить более глубокие знания об этом фреймворке, одновременно изучая новые технологии.
 
-## Стек:
+### Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
