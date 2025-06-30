@@ -13,6 +13,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-59B833?style=for-the-badge&logo=celery)
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-808080?style=for-the-badge&logo=sqlalchemy)
+![Alembic](https://img.shields.io/badge/Alembic-808080?style=for-the-badge&logo=alembic)
 
 </div>
 <!--
